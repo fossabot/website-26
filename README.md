@@ -107,6 +107,7 @@ link_url: /modernization-report/
 Displays as:
 
 ![Hello bar with link to State of Application Modernization Report 2022](img/hello-bar.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fwebsite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fwebsite?ref=badge_shield)
 
 The fields are:
 
@@ -146,3 +147,7 @@ and as white in dark mode:
 
 ## Code of Conduct
 Refer to Konveyor's [Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fwebsite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fwebsite?ref=badge_large)
